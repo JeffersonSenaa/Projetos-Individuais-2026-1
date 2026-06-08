@@ -1,0 +1,20 @@
+sources:
+  - empresa: MRV
+    ri_url: https://ri.mrv.com.br
+    resultados_path: /central-de-resultados
+
+  - empresa: Direcional
+    ri_url: https://ri.direcional.com.br
+    resultados_path: /resultados-trimestrais
+
+  - empresa: Tenda
+    ri_url: https://ri.tenda.com
+    resultados_path: /central-de-resultados
+
+  - empresa: Cury
+    ri_url: https://ricury.com.br
+    resultados_path: /central-de-resultados
+
+  - empresa: Plano Plano
+    ri_url: https://ri.planoeplano.com.br
+    resultados_path: /central-de-resultados
