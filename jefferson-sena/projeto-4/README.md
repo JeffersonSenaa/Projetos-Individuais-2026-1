@@ -122,6 +122,3 @@ CLI rodando fora do Docker com `DATABASE_URL=...@postgres:5432/...`.
 - [Relatório de entrega](relatorio-entrega.md)
 - [Arquitetura](docs/arquitetura.md)
 - [Contrato semântico](docs/contrato-semantico.md)
-- [ADR: Chunking híbrido](docs/adr/001-chunking-hibrido.md)
-- [Setup Gemini](docs/gemini-setup.md)
-- [Evidências de extração](docs/evidencias-extracao.md)
